@@ -1,0 +1,14 @@
+/* Css variables */
+
+:root{
+    /* colors */
+    --color-text: #fff;
+    --color-primary: #5e548e;
+    --color-secondary: #231942;
+    --color-dark: #0b2447;
+    --color-bg: #140E25;
+
+    /* Fonts */
+    --font-roboto: "Roboto";
+
+}
